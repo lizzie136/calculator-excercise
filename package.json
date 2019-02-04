@@ -1,0 +1,28 @@
+{
+  "name": "1.calculator",
+  "version": "1.0.0",
+  "description": "Ejercicio de pruebas con una calculadora ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lizzie136/calculator-excercise.git"
+  },
+  "keywords": [
+    "testing",
+    "codenewbie",
+    "jest"
+  ],
+  "author": "@lizzie136",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizzie136/calculator-excercise/issues"
+  },
+  "homepage": "https://github.com/lizzie136/calculator-excercise#readme",
+  "dependencies": {
+    "jest": "^24.0.0"
+  }
+}
